@@ -18,4 +18,8 @@ data. Before doing the visualization, I cleaned the data with Excel for the data
 using SQL. In my view, the data I describe is in the form of Ratings and Products from customer purchases where I want to know the average Rating from each country and see 
 products that are often purchased by customers so that from the results of this analysis I can find out what is trending and can increase sales in e-commerce.
 
+**Data Cleaning**
+
+This is file for data cleaning which I upload in gdrive because oversized capacity so can't upload to github. This is the link of gdrive to access my work:
+https://drive.google.com/drive/folders/1JBQHxHUEy7EUiHSxxv9NcaiBKRoRYM1s?usp=sharing
 
