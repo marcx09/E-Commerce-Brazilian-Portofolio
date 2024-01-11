@@ -9,7 +9,7 @@ Brazilian zip codes to lat/lng coordinates.
 This is real commercial data, it has been anonymised, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones 
 great houses.
 
-Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Link for Raw Data: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 **What I looking for?**
 
