@@ -23,5 +23,10 @@ products that are often purchased by customers so that from the results of this 
 This is file for data cleaning which I upload in gdrive because oversized capacity so can't upload to github. This is the link of gdrive to access my work:
 https://drive.google.com/drive/folders/1JBQHxHUEy7EUiHSxxv9NcaiBKRoRYM1s?usp=sharing
 
+**Excel Formula Used for Data Cleaning:**
+- SUBSTITUTE
+- REPLACE
+- PROPER
+
 Notes: This portfolio is made based on my point of view if there are mistakes then I apologize and will try to correct them.
 
